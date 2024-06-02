@@ -224,3 +224,12 @@ Received Import Request.
 Start importing Assets/art/ElmarH.png using Guid(d21e09971bb59454ea828f3f186b3fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360f6e375ac87ee032dc3d9cb594bc1d') in 0.049556 seconds 
   Import took 0.052480 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 5942.467071 seconds.
+  path: Assets/art/emlarspritesheet.png
+  artifactKey: Guid(c1ddc14186fb22643966a6ed2a69d512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/art/emlarspritesheet.png using Guid(c1ddc14186fb22643966a6ed2a69d512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f97248fae1552d1945655c4afbe50974') in 0.037096 seconds 
+  Import took 0.043494 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
